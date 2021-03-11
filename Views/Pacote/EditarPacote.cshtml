@@ -1,0 +1,39 @@
+@model Pacote
+@{
+    ViewData["Title"] = "Editar Usuário";
+}
+<div class="registropacotes">
+    <h3>Editar Pacotes !</h3>
+    <form asp-action="EditarPacote" method="POST">
+        <div class="form-usuario">
+            <input type="hidden" asp-for="IdPacote" name="IdPacote" value="@Model.IdPacote">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Destino">Destino:</label>
+            <input asp-for="Destino" name="Destino" value="@Model.Destino">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Partida">Partida:</label>
+            <input asp-for="Partida" name="Partida" value="@Model.Partida">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Saida">Saída:</label>
+            <input asp-for="Saida" name="Saida" value="@Model.Saida">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Retorno">Retorno:</label>
+            <input asp-for="Retorno" name="Retorno" value="@Model.Retorno">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Preco">Valor ida e volta:</label>
+            <input asp-for="Preco" name="Preco" value="@Model.Preco">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Usuario">Usuário:</label>
+            <input asp-for="Usuario" name="Usuario" value="@Model.Usuario">
+        </div>
+        <div class="form-usuario">
+            <input type="submit" value="Editar">
+        </div>
+    </form>
+</div>

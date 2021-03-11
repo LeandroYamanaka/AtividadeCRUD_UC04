@@ -1,0 +1,37 @@
+@using Atividade_2.Models
+@model Pacote
+@{
+    ViewData["Title"] = "Registrar Pacotes";
+}
+<div class="registropacotes">
+    <h3>Cadastro de Pacotes !</h3>
+    <form asp-action="Registrarpacotes" method="POST">
+        <div class="form-usuario">
+            <label asp-for="Destino">Destino:</label>
+            <input asp-for="Destino" type="text">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Partida">Partida:</label>
+            <input asp-for="Partida" type="text">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Saida">Saída:</label>
+            <input asp-for="Saida" type="date">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Retorno">Retorno:</label>
+            <input asp-for="Retorno" type="date">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Preco">Valor ida e volta:</label>
+            <input asp-for="Preco" type="text">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Usuario">Usuário:</label>
+            <input asp-for="Usuario" type="text">
+        </div>
+        <div class="form-usuario">
+            <input type="submit" value="Cadastrar">
+        </div>
+    </form>
+</div>

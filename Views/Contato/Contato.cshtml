@@ -1,0 +1,40 @@
+@using Atividade_2.Models
+@model Contato
+@{
+    ViewData["Title"] = "Contato";
+}
+<div class="registropacotes">
+    <h3>Entre em contato !</h3>
+    <form asp-action="Contato" method="POST">
+        <div class="form-usuario">
+            <label asp-for="Nome">Nome:</label>
+            <input asp-for="Nome" type="text">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Telefone">Telefone:</label>
+            <input asp-for="Telefone" type="text">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Email">Email:</label>
+            <input asp-for="Email" type="email">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Duvida">Mensagem:</label>
+            <textarea id="Duvida" asp-for="Duvida"></textarea>
+        </div>
+
+        <div class="form-usuario">
+            <button type="submit" value="Cadastrar">Enviar</button>
+        </div>
+    </form>
+    <p>@ViewBag.Mensagem</p>
+</div>
+
+<div class="contato">
+
+    <a href="#"><img class="icone-contato" src="~/Img/Facebook.png"></a>
+    <a href="#"><img class="icone-contato" src="~/Img/Instagram.png"></a>
+    <a href="#"><img class="icone-contato" src="~/Img/Twitter.png"></a>
+    <a href="#"><img class="icone-contato" src="~/Img/Email.jpg" width="150px" height="150px"></a>
+    <p>Nos siga nas redes sociais, fique por dentro de notícias e promoções.</p>
+</div>

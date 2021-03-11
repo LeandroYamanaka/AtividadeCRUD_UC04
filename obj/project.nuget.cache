@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zt931dL1O33r9S4YtrsmIAblopI4l6wy0mersn1aWsEhOn2KEMgMJx7mbmvZ0FXbYvcz7e5A76FkXS/Bypx7CQ==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\leand\\Documents\\TI Senac\\Módulo Estruturar e implementar banco de dados\\New folder\\Atividade 2\\Atividade 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\mysqlconnector\\1.2.0\\mysqlconnector.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

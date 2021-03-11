@@ -1,0 +1,31 @@
+﻿@using Atividade_2.Models
+@model List<Pacote>
+@{
+    ViewData["Title"] = "Vitrine";
+}
+
+
+<div class="vitrine">
+    <h3>Vitrine de Pacotes</h3>
+    <div class="pacotes">
+
+
+        @foreach (Pacote x in Model)
+        {
+            <style>
+                .pacotes-box {
+                    height: 290px;
+                }
+            </style>
+            <div class="pacotes-box">
+                <p>Destino: @x.Destino</p>
+                <p>Partida: @x.Partida</p>
+                <p>Saída: @x.Saida</p>
+                <p>Retorno: @x.Retorno</p>
+                <p>R$ @x.Preco</p>
+                <p>Usuário: @x.Usuario</p>
+                <p><a href="#">Adicionar ao Carrinho</a></p>
+            </div>
+        }
+    </div>
+</div>

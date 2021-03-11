@@ -1,0 +1,45 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Editar Usuário";
+}
+<div class="registrousuario">
+    <h3>Editar Usuário !</h3>
+    <form asp-action="Editar" method="POST">
+        <div class="form-usuario">
+            <input asp-for="IdUsuario" name="IdUsuario" value="@Model.IdUsuario">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Nome">Nome:</label>
+            <input asp-for="Nome" name="Nome" value="@Model.Nome">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Email">Email:</label>
+            <input asp-for="Email" name="Email" value="@Model.Email">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Telefone">Telefone:</label>
+            <input asp-for="Telefone" name="Telefone" value="@Model.Telefone">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Login">Login:</label>
+            <input asp-for="Login" name="Login" value="@Model.Login">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Nascimento">Data de nascimento:</label>
+            <input asp-for="Nascimento" name="Nascimento" value="@Model.Nascimento">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Senha">Senha:</label>
+            <input asp-for="Senha" name="Senha" type="password" value="@Model.Senha">
+        </div>
+        <div class="form-usuario">
+            <label asp-for="Nivel">Nível:</label>
+            <input asp-for="Nivel" name="Nivel" value="@Model.Nivel">
+        </div>
+        <div class="form-usuario">
+            <input type="submit" value="Editar">
+
+        </div>
+    </form>
+    <p>@ViewBag.Mensagem</p>
+</div>

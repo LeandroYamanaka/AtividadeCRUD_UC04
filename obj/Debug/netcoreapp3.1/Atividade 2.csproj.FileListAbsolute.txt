@@ -1,0 +1,92 @@
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.exe
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.deps.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.dev.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csprojAssemblyReference.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfoInputs.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CoreCompileInputs.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.input.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.output.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorCoreGenerate.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.Manifest.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.xml
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.genruntimeconfig.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CopyComplete
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Contato.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\Listadepacotes.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\Registrarpacotes.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\Vitrine.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrousuarios.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listadeusuarios.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\EditarPacote.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.exe
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.deps.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.dev.json
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csprojAssemblyReference.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfoInputs.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CoreCompileInputs.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.input.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.output.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorCoreGenerate.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Contato.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\EditarPacote.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\Listadepacotes.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\Registrarpacotes.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\Vitrine.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrousuarios.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listadeusuarios.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CopyComplete
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.Manifest.cache
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.xml
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.dll
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.pdb
+E:\Users\leand\Documents\TI Senac\Módulo Estruturar e implementar banco de dados\New folder\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.genruntimeconfig.cache

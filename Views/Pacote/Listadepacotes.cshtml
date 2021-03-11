@@ -1,0 +1,41 @@
+@using Atividade_2.Models
+@model List<Pacote>
+@{
+    ViewData["Title"] = "Lista de Pacotes";
+}
+<div class="lista-usuarios">
+    <table>
+        <thead>
+            <tr>
+
+                <th>Destino</th>
+                <th>Partida</th>
+                <th>Saída</th>
+                <th>Retorno</th>
+                <th>Valor ida e volta</th>
+                <th>Usuário</th>
+                <th></th>
+                <th></th>
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (Pacote x in Model)
+            {
+                <tr>
+                    <td>@x.Destino</td>
+                    <td>@x.Partida</td>
+                    <td>@x.Saida</td>
+                    <td>@x.Retorno</td>
+                    <td>R$ @x.Preco</td>
+                    <td>@x.Usuario</td>
+                    <td><a href="/Pacote/EditarPacote?IdPacote=@x.IdPacote">Editar</a></td>
+                    <td><a href="~/Pacote/Excluir?IdPacote=@x.IdPacote">Excluir</a></td>
+
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+</div>

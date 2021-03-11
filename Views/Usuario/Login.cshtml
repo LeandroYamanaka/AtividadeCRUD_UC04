@@ -1,0 +1,24 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="login-body">
+    <form class="card-login" asp-action="Login" method="POST">
+        <div class="login">
+            <div class="card-group">
+                <label asp-for="Login">Login:</label>
+                <input class="login-input" asp-for="Login" placeholder=" Digite seu Login" required>
+            </div>
+            <div class="card-group">
+                <label asp-for="Senha">Senha</label>
+                <input class="login-input" type="password" asp-for="Senha" placeholder=" Digite sua Senha" required>
+            </div>
+            <div class="card-group btn">
+                <input class="login-button" type="submit" value="Login">
+            </div>
+
+        </div>
+    </form>
+    <p>@ViewBag.Mensagem</p>
+</div>

@@ -1,0 +1,78 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Destino Certo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body>
+    <header>
+        <div class="icone-menu">
+            <input type="checkbox" id="check">
+            <label id="icone-menu" for="check"><img src="~/Img/icone.png"></label>
+            <div class="barra">
+                <nav>
+                    <a asp-action="Index" asp-controller="Home">
+                        <div class="link">Home</div>
+                    </a>
+                    <a asp-action="Vitrine" asp-controller="Pacote">
+                        <div class="link">Vitrine de Pacotes</div>
+                    </a>
+                    <a asp-action="Cadastrousuarios" asp-controller="Usuario">
+                        <div class="link">Cadastro</div>
+                    </a>
+                    <a asp-action="Listadeusuarios" asp-controller="Usuario">
+                        <div class="link">Lista de Usuários</div>
+                    </a>
+                    <a asp-action="Registrarpacotes" asp-controller="Pacote">
+                        <div class="link">Registrar Pacotes</div>
+                    </a>
+                    <a asp-action="Listadepacotes" asp-controller="Pacote">
+                        <div class="link">Lista de Pacotes</div>
+                    </a>
+                    <a asp-action="Contato" asp-controller="Contato">
+                        <div class="link">Contato</div>
+                    </a>
+                    <a asp-action="Login" asp-controller="Usuario">
+                        <div class="link">Login</div>
+                    </a>
+                    @if (Context.Session.GetInt32("IdUsuario") != null)
+                    {
+                        <a asp-action="Logout" asp-controller="Usuario">
+                            <div class="link">Logout</div>
+                        </a>
+                    }
+
+                </nav>
+            </div>
+        </div>
+        <div class="Logo"><img class="logo" src="~/Img/Logo5.png"></div>
+
+        <div class="icone">
+            <a href="#"><img class="redes" src="~/Img/Facebook.png"></a>
+            <a href="#"><img class="redes" src="~/Img/Instagram.png"></a>
+            <a href="#"><img class="redes" src="~/Img/Twitter.png"></a>
+            <a href="#"><img class="redes" src="~/Img/Cart1.png"></a>
+        </div>
+    </header>
+    <section>
+        <div class="container">
+            @RenderBody()
+        </div>
+    </section>
+    <div class="footer">
+        <footer>
+            <div class="Foot">
+                <p>Destino Certo - Cnpj:12.345.678/0001-00</p>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
